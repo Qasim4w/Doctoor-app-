@@ -9,6 +9,9 @@ class CategoriesList extends StatelessWidget {
     Key? key,
   }) : super(key: key);
 
+
+
+  ///view
   @override
   Widget build(BuildContext context) {
     // ignore: sized_box_for_whitespace
